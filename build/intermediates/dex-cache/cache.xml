@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_300b54feca1b59779856a8732cab060566f8635f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="63bfbb4a3b3e7d8ef8e9b93a33d6941968031edf">
+        <dex dex="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_66863fee112dbf16a8984d055e3b643bc1214cf1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="55cea489894a7d40bf58df46f4984e422f91b79b">
+        <dex dex="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3048777743522c8fd08ce866295a751ffe78fb80\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_2f9812f0bd82326aae2a76fcfa7017b03457046a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_c382fc49bf750f78375af43fc873c3c0ddb059b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_bd6eedb4884c01d420b12780cd440513797cb509\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CARLOS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_135b286249c7c13662c15f86c01f6e8d5b476886\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\CARLOS\AndroidStudioProjects\AppMovil2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_85a851d99cfcc4dd3efdbb547d1ec64e4efa7135\classes.dex" />
+    </item>
+
+</items>
